@@ -7,6 +7,8 @@
 #include "common/UniqueAccess.hpp"
 #include "util/QStringHash.hpp"
 
+#include <memory>
+
 namespace chatterino {
 
 struct Emote;
